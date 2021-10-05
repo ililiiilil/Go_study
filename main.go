@@ -1,9 +1,7 @@
 package main
 
-import (
-	"breakContinue"
-)
+import "inverseMatrix"
 
 func main() {
-	breakContinue.BreakContinue()
+	inverseMatrix.InverseMatrix()
 }
