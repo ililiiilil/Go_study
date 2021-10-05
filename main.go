@@ -1,11 +1,9 @@
 package main
 
 import (
-	"cal"
-	"fmt"
+	"breakContinue"
 )
 
 func main() {
-	result := cal.Sum(1, 2)
-	fmt.Println(result)
+	breakContinue.BreakContinue()
 }
